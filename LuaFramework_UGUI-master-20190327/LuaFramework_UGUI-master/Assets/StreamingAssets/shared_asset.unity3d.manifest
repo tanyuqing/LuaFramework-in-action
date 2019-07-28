@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1285496979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d35a91e8af50a76cf4f041da1d46eb6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2891accb02704babbf95370967ba96e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Examples/Textures/Shared/ButtonClick.png
+- Assets/LuaFramework/Examples/Textures/Shared/ButtonNormal.png
+- Assets/LuaFramework/Examples/Textures/Shared/ButtonDisable.png
+- Assets/LuaFramework/Examples/Textures/Shared/SmallBaseMap.png
+Dependencies: []
